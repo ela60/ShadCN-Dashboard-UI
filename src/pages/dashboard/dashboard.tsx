@@ -102,8 +102,8 @@ export default function Dashboard() {
             <div className="flex items-center justify-between">
               <TabsList>
                 <TabsTrigger value="published" className="flex items-center gap-1.5">
-                  <FileText className="h-4 w-4" />
-                  <span>Published Articles</span>
+                  <FileText className="h-4 w-4 " />
+                  <span >Published Articles</span>
                   <span className="ml-1.5 flex h-5 w-5 items-center justify-center rounded-full bg-primary/10 text-xs font-medium text-primary">
                     {articles.filter(a => a.status === 'published').length}
                   </span>

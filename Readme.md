@@ -2,14 +2,14 @@
 
 A clean and responsive **Dashboard UI** built with **React**, **TypeScript**, **Tailwind CSS**, and **ShadCN/UI** components. This is a submission for a Frontend Developer Assignment focused on layout structure, reusable components, and modern UI best practices.
 
-> **Live Demo:** [https://your-deployment-link.com](https://your-deployment-link.com)  
-> **GitHub Repo:** [https://github.com/yourusername/shadcn-dashboard-ui](https://github.com/yourusername/shadcn-dashboard-ui)
+> **Live Demo:** [https://your-deployment-link.com](https://effulgent-pegasus-37f6af.netlify.app/)  
+> **GitHub Repo:** [https://github.com/yourusername/shadcn-dashboard-ui](https://github.com/ela60/ShadCN-Dashboard-UI.git)
 
 ---
 
 ## 🖼️ Project Preview
 
-![Dashboard UI Preview](./public/dashboard-ui.png)
+![Dashboard UI Preview](./src/localhost_5173_.png)
 
 > _This is a reimagined version of the provided design using ShadCN blocks._
 
