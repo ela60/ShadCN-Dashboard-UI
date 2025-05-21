@@ -82,13 +82,4 @@ export const articles: Article[] = [
     createdAt: null,
     status: 'unfinished',
   },
-  {
-    id: '10',
-    title: 'Unlimited Graphic Design Services You Can Rely On',
-    keyword: 'unlimited graphic design services',
-    traffic: '[1700]',
-    wordCount: 1974,
-    createdAt: null,
-    status: 'unfinished',
-  },
 ];
